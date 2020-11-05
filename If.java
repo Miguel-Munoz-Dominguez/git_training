@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class If{
+// Programa de prueba
 	public static void main(String[] args){
 	Scanner scanner = new Scanner(System.in);
 	int a = 0;
